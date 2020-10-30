@@ -1,5 +1,5 @@
 // paste in your published Google Sheets URL from the browser address bar
-var googleDocURL = 'https://docs.google.com/spreadsheets/d/1gLXT7PZwPeRrz-nDqs8nfF5cxSLuSz2OpXp9AgGaibw/edit#gid=0';
+var googleDocURL = 'https://docs.google.com/spreadsheets/d/1gLXT7PZwPeRrz-nDqs8nfF5cxSLuSz2OpXp9AgGaibw/edit?ts=5f9bf122#gid=1033046795';
 
 
 
